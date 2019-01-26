@@ -1,0 +1,5 @@
+kura:znosi jajka, ma koguta, dzieco kurczak
+kurczak:matka kura, ¿ó³te i piszczy, ojciec kogut
+kogut:rano pieje, ojciec kurczaka, rz¹dzi w kurniku
+ziemniak:jnaczej grule, inaczej pyry, robi siê z tego frytki
+makaron:g³ówny sk³adnik spaghetti, mo¿e byæ z m¹ki durum, nitki œwiderki
